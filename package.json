@@ -1,5 +1,5 @@
 {
-  "name": "wifiwizard",
+  "name": "com.pylonproducts.wifiwizard",
   "version": "1.0.0",
   "description": "Version 0.2.10",
   "main": "index.js",
@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/nexussmart/WifiWizard.git"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "[]"
+  ],
+  "author": "Volpy",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nexussmart/WifiWizard/issues"
   },
